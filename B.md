@@ -17,6 +17,8 @@ share: true
 category: _writing
 test.category: _tests
 test: true
+test.rootFolder: _tests
+test.defaultName: _tests
 ---
 
 Cillum ad velit pariatur eu laborum consectetur commodo exercitation id
