@@ -5,4 +5,4 @@ hidden: "true"
 title: Home
 ---
 
-![[.//Attachments/discord.png|discord.png]]
+![[./Attachments/discord.png|discord.png]]
